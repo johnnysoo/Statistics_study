@@ -1,6 +1,8 @@
 ---
 title: "Week 1 Lab"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 
@@ -58,4 +60,3 @@ mutate(total = boys + girls)
 ggplot(data = arbuthnot, aes(x = year, y = total)) +geom_line()
 ```
 
- *Cmd+Option+I*.
