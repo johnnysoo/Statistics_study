@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="155b5a21-d7c4-4a44-b02b-e7987af35ce3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/9. Confidence interval.ipynb" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/11. Hypothesis Testing&amp; Significance-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/11. Hypothesis Testing&amp; Significance-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/9. Test &amp; Parameter-estimation-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/9. Test &amp; Parameter-estimation-checkpoint.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
